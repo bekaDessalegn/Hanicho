@@ -1,34 +1,34 @@
 
 @keyframes name_changer {
     0% {
-      content: "Estifanos";
+      content: "Hanna Samuel";
     }
     35% {
-      content: "Estifanos";
+      content: "Hanna Samuel";
     }
     36% {
-      content: "Estifano";
+      content: "Hanna Sam";
     }
     37% {
-      content: "Estifan";
+      content: "Hanna Sam";
     }
     38% {
-      content: "Estifa";
+      content: "Hanna S";
     }
     39% {
-      content: "Estif";
+      content: "Hanna";
     }
     40% {
-      content: "Esti";
+      content: "Hanna";
     }
     41% {
-      content: "Est";
+      content: "Han";
     }
     42% {
-      content: "Es";
+      content: "Ha";
     }
     43% {
-      content: "E";
+      content: "H";
     }
     44% {
       content: "";
@@ -37,19 +37,19 @@
       content: "";
     }
     62% {
-      content: "S";
+      content: "H";
     }
     63% {
-      content: "St";
+      content: "Han";
     }
     64% {
-      content: "Sti";
+      content: "Hani";
     }
     65% {
-      content: "Stiv";
+      content: "Hanicho";
     }
     100% {
-      content: "Stiv";
+      content: "Hanicho";
     }
   }
   @keyframes blinker {
